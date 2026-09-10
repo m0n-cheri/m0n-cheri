@@ -18,10 +18,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=26&pause=60&color=EAEAEA&center=true&vCenter=true&width=407&lines=Sur+le+terrain%2C;+je+fais+ce+que+je+sais+faire+de+mieux."/>
 <img width="200" height="125" src="https://64.media.tumblr.com/d95c248438002fcbe61daa81abee39ce/3ff4e3adf2e34923-72/s250x400/98f5193ceb229301aab2e259f67a2f366314c5f0.gifv"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="200" height="125" src="https://64.media.tumblr.com/d95c248438002fcbe61daa81abee39ce/3ff4e3adf2e34923-72/s250x400/98f5193ceb229301aab2e259f67a2f366314c5f0.gifv"/>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="200" height="125" src="https://64.media.tumblr.com/d95c248438002fcbe61daa81abee39ce/3ff4e3adf2e34923-72/s250x400/98f5193ceb229301aab2e259f67a2f366314c5f0.gifv"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<div align=right> <img width="200" height="125" src="https://64.media.tumblr.com/d95c248438002fcbe61daa81abee39ce/3ff4e3adf2e34923-72/s250x400/98f5193ceb229301aab2e259f67a2f366314c5f0.gifv"/> </div>
+
+
+
+<div align=left> <img width="200" height="125" src="https://64.media.tumblr.com/d95c248438002fcbe61daa81abee39ce/3ff4e3adf2e34923-72/s250x400/98f5193ceb229301aab2e259f67a2f366314c5f0.gifv"/> </div>
 
 
 </div>
